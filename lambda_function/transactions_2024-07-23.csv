@@ -1,0 +1,401 @@
+customer_id,name,debit_card_number,debit_card_type,bank_name,transaction_date,amount_spend
+1001,Ravi Kumar,1234567890123456,Visa,State Bank of India,2024-07-23,26.85
+1002,Anjali Gupta,2345678901234567,Mastercard,HDFC Bank,2024-07-23,317.38
+1003,Rahul Singh,3456789012345678,American Express,ICICI Bank,2024-07-23,217.62
+1004,Priya Sharma,4567890123456789,Discover,Axis Bank,2024-07-23,78.52
+1005,Suresh Patel,5678901234567890,Visa,Kotak Mahindra Bank,2024-07-23,107.69
+1006,Divya Joshi,6789012345678901,Mastercard,IndusInd Bank,2024-07-23,95.16
+1007,Amit Mishra,7890123456789012,American Express,Yes Bank,2024-07-23,99.84
+1008,Meena Reddy,8901234567890123,Discover,Punjab National Bank,2024-07-23,238.27
+1009,Rajesh Gupta,9012345678901234,Visa,Bank of Baroda,2024-07-23,59.17
+1010,Neeta Kapoor,0123456789012345,Mastercard,Canara Bank,2024-07-23,488.42
+1011,Prakash Singh,1234567890123456,American Express,Union Bank of India,2024-07-23,253.28
+1012,Sunita Shah,2345678901234567,Discover,Bank of India,2024-07-23,153.14
+1013,Sanjay Verma,3456789012345678,Visa,Indian Bank,2024-07-23,222.21
+1014,Anita Das,4567890123456789,Mastercard,Bank of Maharashtra,2024-07-23,259.41
+1015,Alok Yadav,5678901234567890,American Express,Allahabad Bank,2024-07-23,401.79
+1016,Meera Singh,6789012345678901,Discover,Andhra Bank,2024-07-23,273.08
+1017,Arjun Gupta,7890123456789012,Visa,Canara Bank,2024-07-23,155.85
+1018,Anushka Sharma,8901234567890123,Mastercard,Axis Bank,2024-07-23,130.61
+1019,Aryan Khan,9012345678901234,American Express,Yes Bank,2024-07-23,72.34
+1020,Deepika Patel,0123456789012345,Discover,HDFC Bank,2024-07-23,17.41
+1001,Ravi Kumar,1234567890123456,Visa,State Bank of India,2024-07-23,478.57
+1002,Anjali Gupta,2345678901234567,Mastercard,HDFC Bank,2024-07-23,198.74
+1003,Rahul Singh,3456789012345678,American Express,ICICI Bank,2024-07-23,352.71
+1004,Priya Sharma,4567890123456789,Discover,Axis Bank,2024-07-23,478.49
+1005,Suresh Patel,5678901234567890,Visa,Kotak Mahindra Bank,2024-07-23,193.7
+1006,Divya Joshi,6789012345678901,Mastercard,IndusInd Bank,2024-07-23,443.23
+1007,Amit Mishra,7890123456789012,American Express,Yes Bank,2024-07-23,120.32
+1008,Meena Reddy,8901234567890123,Discover,Punjab National Bank,2024-07-23,27.19
+1009,Rajesh Gupta,9012345678901234,Visa,Bank of Baroda,2024-07-23,461.78
+1010,Neeta Kapoor,0123456789012345,Mastercard,Canara Bank,2024-07-23,15.0
+1011,Prakash Singh,1234567890123456,American Express,Union Bank of India,2024-07-23,455.34
+1012,Sunita Shah,2345678901234567,Discover,Bank of India,2024-07-23,446.33
+1013,Sanjay Verma,3456789012345678,Visa,Indian Bank,2024-07-23,85.99
+1014,Anita Das,4567890123456789,Mastercard,Bank of Maharashtra,2024-07-23,358.63
+1015,Alok Yadav,5678901234567890,American Express,Allahabad Bank,2024-07-23,496.85
+1016,Meera Singh,6789012345678901,Discover,Andhra Bank,2024-07-23,356.37
+1017,Arjun Gupta,7890123456789012,Visa,Canara Bank,2024-07-23,237.63
+1018,Anushka Sharma,8901234567890123,Mastercard,Axis Bank,2024-07-23,95.83
+1019,Aryan Khan,9012345678901234,American Express,Yes Bank,2024-07-23,250.66
+1020,Deepika Patel,0123456789012345,Discover,HDFC Bank,2024-07-23,66.46
+1001,Ravi Kumar,1234567890123456,Visa,State Bank of India,2024-07-23,158.72
+1002,Anjali Gupta,2345678901234567,Mastercard,HDFC Bank,2024-07-23,273.9
+1003,Rahul Singh,3456789012345678,American Express,ICICI Bank,2024-07-23,375.09
+1004,Priya Sharma,4567890123456789,Discover,Axis Bank,2024-07-23,173.71
+1005,Suresh Patel,5678901234567890,Visa,Kotak Mahindra Bank,2024-07-23,434.19
+1006,Divya Joshi,6789012345678901,Mastercard,IndusInd Bank,2024-07-23,452.44
+1007,Amit Mishra,7890123456789012,American Express,Yes Bank,2024-07-23,57.7
+1008,Meena Reddy,8901234567890123,Discover,Punjab National Bank,2024-07-23,207.35
+1009,Rajesh Gupta,9012345678901234,Visa,Bank of Baroda,2024-07-23,14.05
+1010,Neeta Kapoor,0123456789012345,Mastercard,Canara Bank,2024-07-23,364.26
+1011,Prakash Singh,1234567890123456,American Express,Union Bank of India,2024-07-23,357.25
+1012,Sunita Shah,2345678901234567,Discover,Bank of India,2024-07-23,113.68
+1013,Sanjay Verma,3456789012345678,Visa,Indian Bank,2024-07-23,314.65
+1014,Anita Das,4567890123456789,Mastercard,Bank of Maharashtra,2024-07-23,265.32
+1015,Alok Yadav,5678901234567890,American Express,Allahabad Bank,2024-07-23,406.88
+1016,Meera Singh,6789012345678901,Discover,Andhra Bank,2024-07-23,195.6
+1017,Arjun Gupta,7890123456789012,Visa,Canara Bank,2024-07-23,282.78
+1018,Anushka Sharma,8901234567890123,Mastercard,Axis Bank,2024-07-23,409.51
+1019,Aryan Khan,9012345678901234,American Express,Yes Bank,2024-07-23,243.99
+1020,Deepika Patel,0123456789012345,Discover,HDFC Bank,2024-07-23,217.46
+1001,Ravi Kumar,1234567890123456,Visa,State Bank of India,2024-07-23,277.3
+1002,Anjali Gupta,2345678901234567,Mastercard,HDFC Bank,2024-07-23,350.41
+1003,Rahul Singh,3456789012345678,American Express,ICICI Bank,2024-07-23,227.35
+1004,Priya Sharma,4567890123456789,Discover,Axis Bank,2024-07-23,311.57
+1005,Suresh Patel,5678901234567890,Visa,Kotak Mahindra Bank,2024-07-23,262.92
+1006,Divya Joshi,6789012345678901,Mastercard,IndusInd Bank,2024-07-23,489.07
+1007,Amit Mishra,7890123456789012,American Express,Yes Bank,2024-07-23,395.3
+1008,Meena Reddy,8901234567890123,Discover,Punjab National Bank,2024-07-23,295.1
+1009,Rajesh Gupta,9012345678901234,Visa,Bank of Baroda,2024-07-23,129.32
+1010,Neeta Kapoor,0123456789012345,Mastercard,Canara Bank,2024-07-23,101.93
+1011,Prakash Singh,1234567890123456,American Express,Union Bank of India,2024-07-23,435.48
+1012,Sunita Shah,2345678901234567,Discover,Bank of India,2024-07-23,270.76
+1013,Sanjay Verma,3456789012345678,Visa,Indian Bank,2024-07-23,184.17
+1014,Anita Das,4567890123456789,Mastercard,Bank of Maharashtra,2024-07-23,90.64
+1015,Alok Yadav,5678901234567890,American Express,Allahabad Bank,2024-07-23,431.71
+1016,Meera Singh,6789012345678901,Discover,Andhra Bank,2024-07-23,353.0
+1017,Arjun Gupta,7890123456789012,Visa,Canara Bank,2024-07-23,61.03
+1018,Anushka Sharma,8901234567890123,Mastercard,Axis Bank,2024-07-23,340.79
+1019,Aryan Khan,9012345678901234,American Express,Yes Bank,2024-07-23,315.32
+1020,Deepika Patel,0123456789012345,Discover,HDFC Bank,2024-07-23,258.07
+1001,Ravi Kumar,1234567890123456,Visa,State Bank of India,2024-07-23,335.56
+1002,Anjali Gupta,2345678901234567,Mastercard,HDFC Bank,2024-07-23,43.27
+1003,Rahul Singh,3456789012345678,American Express,ICICI Bank,2024-07-23,24.94
+1004,Priya Sharma,4567890123456789,Discover,Axis Bank,2024-07-23,442.91
+1005,Suresh Patel,5678901234567890,Visa,Kotak Mahindra Bank,2024-07-23,188.26
+1006,Divya Joshi,6789012345678901,Mastercard,IndusInd Bank,2024-07-23,420.12
+1007,Amit Mishra,7890123456789012,American Express,Yes Bank,2024-07-23,382.37
+1008,Meena Reddy,8901234567890123,Discover,Punjab National Bank,2024-07-23,130.28
+1009,Rajesh Gupta,9012345678901234,Visa,Bank of Baroda,2024-07-23,134.51
+1010,Neeta Kapoor,0123456789012345,Mastercard,Canara Bank,2024-07-23,322.76
+1011,Prakash Singh,1234567890123456,American Express,Union Bank of India,2024-07-23,359.87
+1012,Sunita Shah,2345678901234567,Discover,Bank of India,2024-07-23,325.0
+1013,Sanjay Verma,3456789012345678,Visa,Indian Bank,2024-07-23,446.01
+1014,Anita Das,4567890123456789,Mastercard,Bank of Maharashtra,2024-07-23,66.71
+1015,Alok Yadav,5678901234567890,American Express,Allahabad Bank,2024-07-23,249.82
+1016,Meera Singh,6789012345678901,Discover,Andhra Bank,2024-07-23,169.87
+1017,Arjun Gupta,7890123456789012,Visa,Canara Bank,2024-07-23,98.26
+1018,Anushka Sharma,8901234567890123,Mastercard,Axis Bank,2024-07-23,391.53
+1019,Aryan Khan,9012345678901234,American Express,Yes Bank,2024-07-23,163.06
+1020,Deepika Patel,0123456789012345,Discover,HDFC Bank,2024-07-23,473.56
+1001,Ravi Kumar,1234567890123456,Visa,State Bank of India,2024-07-23,464.28
+1002,Anjali Gupta,2345678901234567,Mastercard,HDFC Bank,2024-07-23,458.35
+1003,Rahul Singh,3456789012345678,American Express,ICICI Bank,2024-07-23,420.48
+1004,Priya Sharma,4567890123456789,Discover,Axis Bank,2024-07-23,427.07
+1005,Suresh Patel,5678901234567890,Visa,Kotak Mahindra Bank,2024-07-23,293.53
+1006,Divya Joshi,6789012345678901,Mastercard,IndusInd Bank,2024-07-23,26.42
+1007,Amit Mishra,7890123456789012,American Express,Yes Bank,2024-07-23,120.02
+1008,Meena Reddy,8901234567890123,Discover,Punjab National Bank,2024-07-23,197.67
+1009,Rajesh Gupta,9012345678901234,Visa,Bank of Baroda,2024-07-23,215.22
+1010,Neeta Kapoor,0123456789012345,Mastercard,Canara Bank,2024-07-23,99.43
+1011,Prakash Singh,1234567890123456,American Express,Union Bank of India,2024-07-23,485.32
+1012,Sunita Shah,2345678901234567,Discover,Bank of India,2024-07-23,416.32
+1013,Sanjay Verma,3456789012345678,Visa,Indian Bank,2024-07-23,325.15
+1014,Anita Das,4567890123456789,Mastercard,Bank of Maharashtra,2024-07-23,328.49
+1015,Alok Yadav,5678901234567890,American Express,Allahabad Bank,2024-07-23,405.38
+1016,Meera Singh,6789012345678901,Discover,Andhra Bank,2024-07-23,117.28
+1017,Arjun Gupta,7890123456789012,Visa,Canara Bank,2024-07-23,446.62
+1018,Anushka Sharma,8901234567890123,Mastercard,Axis Bank,2024-07-23,46.5
+1019,Aryan Khan,9012345678901234,American Express,Yes Bank,2024-07-23,108.28
+1020,Deepika Patel,0123456789012345,Discover,HDFC Bank,2024-07-23,62.74
+1001,Ravi Kumar,1234567890123456,Visa,State Bank of India,2024-07-23,347.91
+1002,Anjali Gupta,2345678901234567,Mastercard,HDFC Bank,2024-07-23,360.76
+1003,Rahul Singh,3456789012345678,American Express,ICICI Bank,2024-07-23,122.81
+1004,Priya Sharma,4567890123456789,Discover,Axis Bank,2024-07-23,139.47
+1005,Suresh Patel,5678901234567890,Visa,Kotak Mahindra Bank,2024-07-23,16.56
+1006,Divya Joshi,6789012345678901,Mastercard,IndusInd Bank,2024-07-23,403.48
+1007,Amit Mishra,7890123456789012,American Express,Yes Bank,2024-07-23,205.61
+1008,Meena Reddy,8901234567890123,Discover,Punjab National Bank,2024-07-23,382.02
+1009,Rajesh Gupta,9012345678901234,Visa,Bank of Baroda,2024-07-23,207.83
+1010,Neeta Kapoor,0123456789012345,Mastercard,Canara Bank,2024-07-23,57.47
+1011,Prakash Singh,1234567890123456,American Express,Union Bank of India,2024-07-23,267.58
+1012,Sunita Shah,2345678901234567,Discover,Bank of India,2024-07-23,68.14
+1013,Sanjay Verma,3456789012345678,Visa,Indian Bank,2024-07-23,417.72
+1014,Anita Das,4567890123456789,Mastercard,Bank of Maharashtra,2024-07-23,147.14
+1015,Alok Yadav,5678901234567890,American Express,Allahabad Bank,2024-07-23,325.81
+1016,Meera Singh,6789012345678901,Discover,Andhra Bank,2024-07-23,193.19
+1017,Arjun Gupta,7890123456789012,Visa,Canara Bank,2024-07-23,164.09
+1018,Anushka Sharma,8901234567890123,Mastercard,Axis Bank,2024-07-23,191.96
+1019,Aryan Khan,9012345678901234,American Express,Yes Bank,2024-07-23,82.37
+1020,Deepika Patel,0123456789012345,Discover,HDFC Bank,2024-07-23,487.6
+1001,Ravi Kumar,1234567890123456,Visa,State Bank of India,2024-07-23,38.94
+1002,Anjali Gupta,2345678901234567,Mastercard,HDFC Bank,2024-07-23,459.6
+1003,Rahul Singh,3456789012345678,American Express,ICICI Bank,2024-07-23,163.14
+1004,Priya Sharma,4567890123456789,Discover,Axis Bank,2024-07-23,154.34
+1005,Suresh Patel,5678901234567890,Visa,Kotak Mahindra Bank,2024-07-23,315.33
+1006,Divya Joshi,6789012345678901,Mastercard,IndusInd Bank,2024-07-23,377.8
+1007,Amit Mishra,7890123456789012,American Express,Yes Bank,2024-07-23,458.94
+1008,Meena Reddy,8901234567890123,Discover,Punjab National Bank,2024-07-23,159.91
+1009,Rajesh Gupta,9012345678901234,Visa,Bank of Baroda,2024-07-23,365.35
+1010,Neeta Kapoor,0123456789012345,Mastercard,Canara Bank,2024-07-23,355.3
+1011,Prakash Singh,1234567890123456,American Express,Union Bank of India,2024-07-23,278.12
+1012,Sunita Shah,2345678901234567,Discover,Bank of India,2024-07-23,461.81
+1013,Sanjay Verma,3456789012345678,Visa,Indian Bank,2024-07-23,264.72
+1014,Anita Das,4567890123456789,Mastercard,Bank of Maharashtra,2024-07-23,260.41
+1015,Alok Yadav,5678901234567890,American Express,Allahabad Bank,2024-07-23,60.54
+1016,Meera Singh,6789012345678901,Discover,Andhra Bank,2024-07-23,74.19
+1017,Arjun Gupta,7890123456789012,Visa,Canara Bank,2024-07-23,93.2
+1018,Anushka Sharma,8901234567890123,Mastercard,Axis Bank,2024-07-23,174.57
+1019,Aryan Khan,9012345678901234,American Express,Yes Bank,2024-07-23,155.93
+1020,Deepika Patel,0123456789012345,Discover,HDFC Bank,2024-07-23,220.25
+1001,Ravi Kumar,1234567890123456,Visa,State Bank of India,2024-07-23,274.87
+1002,Anjali Gupta,2345678901234567,Mastercard,HDFC Bank,2024-07-23,311.98
+1003,Rahul Singh,3456789012345678,American Express,ICICI Bank,2024-07-23,277.8
+1004,Priya Sharma,4567890123456789,Discover,Axis Bank,2024-07-23,103.25
+1005,Suresh Patel,5678901234567890,Visa,Kotak Mahindra Bank,2024-07-23,197.74
+1006,Divya Joshi,6789012345678901,Mastercard,IndusInd Bank,2024-07-23,210.33
+1007,Amit Mishra,7890123456789012,American Express,Yes Bank,2024-07-23,168.42
+1008,Meena Reddy,8901234567890123,Discover,Punjab National Bank,2024-07-23,86.73
+1009,Rajesh Gupta,9012345678901234,Visa,Bank of Baroda,2024-07-23,413.66
+1010,Neeta Kapoor,0123456789012345,Mastercard,Canara Bank,2024-07-23,325.82
+1011,Prakash Singh,1234567890123456,American Express,Union Bank of India,2024-07-23,257.54
+1012,Sunita Shah,2345678901234567,Discover,Bank of India,2024-07-23,82.89
+1013,Sanjay Verma,3456789012345678,Visa,Indian Bank,2024-07-23,138.21
+1014,Anita Das,4567890123456789,Mastercard,Bank of Maharashtra,2024-07-23,85.42
+1015,Alok Yadav,5678901234567890,American Express,Allahabad Bank,2024-07-23,254.71
+1016,Meera Singh,6789012345678901,Discover,Andhra Bank,2024-07-23,417.14
+1017,Arjun Gupta,7890123456789012,Visa,Canara Bank,2024-07-23,80.53
+1018,Anushka Sharma,8901234567890123,Mastercard,Axis Bank,2024-07-23,449.25
+1019,Aryan Khan,9012345678901234,American Express,Yes Bank,2024-07-23,446.26
+1020,Deepika Patel,0123456789012345,Discover,HDFC Bank,2024-07-23,393.4
+1001,Ravi Kumar,1234567890123456,Visa,State Bank of India,2024-07-23,118.92
+1002,Anjali Gupta,2345678901234567,Mastercard,HDFC Bank,2024-07-23,146.28
+1003,Rahul Singh,3456789012345678,American Express,ICICI Bank,2024-07-23,294.58
+1004,Priya Sharma,4567890123456789,Discover,Axis Bank,2024-07-23,480.48
+1005,Suresh Patel,5678901234567890,Visa,Kotak Mahindra Bank,2024-07-23,27.7
+1006,Divya Joshi,6789012345678901,Mastercard,IndusInd Bank,2024-07-23,111.3
+1007,Amit Mishra,7890123456789012,American Express,Yes Bank,2024-07-23,21.76
+1008,Meena Reddy,8901234567890123,Discover,Punjab National Bank,2024-07-23,491.94
+1009,Rajesh Gupta,9012345678901234,Visa,Bank of Baroda,2024-07-23,393.9
+1010,Neeta Kapoor,0123456789012345,Mastercard,Canara Bank,2024-07-23,196.79
+1011,Prakash Singh,1234567890123456,American Express,Union Bank of India,2024-07-23,405.8
+1012,Sunita Shah,2345678901234567,Discover,Bank of India,2024-07-23,296.57
+1013,Sanjay Verma,3456789012345678,Visa,Indian Bank,2024-07-23,107.45
+1014,Anita Das,4567890123456789,Mastercard,Bank of Maharashtra,2024-07-23,98.3
+1015,Alok Yadav,5678901234567890,American Express,Allahabad Bank,2024-07-23,483.44
+1016,Meera Singh,6789012345678901,Discover,Andhra Bank,2024-07-23,486.68
+1017,Arjun Gupta,7890123456789012,Visa,Canara Bank,2024-07-23,430.78
+1018,Anushka Sharma,8901234567890123,Mastercard,Axis Bank,2024-07-23,263.94
+1019,Aryan Khan,9012345678901234,American Express,Yes Bank,2024-07-23,400.82
+1020,Deepika Patel,0123456789012345,Discover,HDFC Bank,2024-07-23,349.85
+1001,Ravi Kumar,1234567890123456,Visa,State Bank of India,2024-07-23,54.75
+1002,Anjali Gupta,2345678901234567,Mastercard,HDFC Bank,2024-07-23,471.76
+1003,Rahul Singh,3456789012345678,American Express,ICICI Bank,2024-07-23,148.91
+1004,Priya Sharma,4567890123456789,Discover,Axis Bank,2024-07-23,430.82
+1005,Suresh Patel,5678901234567890,Visa,Kotak Mahindra Bank,2024-07-23,178.44
+1006,Divya Joshi,6789012345678901,Mastercard,IndusInd Bank,2024-07-23,310.88
+1007,Amit Mishra,7890123456789012,American Express,Yes Bank,2024-07-23,355.5
+1008,Meena Reddy,8901234567890123,Discover,Punjab National Bank,2024-07-23,41.26
+1009,Rajesh Gupta,9012345678901234,Visa,Bank of Baroda,2024-07-23,481.89
+1010,Neeta Kapoor,0123456789012345,Mastercard,Canara Bank,2024-07-23,59.91
+1011,Prakash Singh,1234567890123456,American Express,Union Bank of India,2024-07-23,134.69
+1012,Sunita Shah,2345678901234567,Discover,Bank of India,2024-07-23,153.19
+1013,Sanjay Verma,3456789012345678,Visa,Indian Bank,2024-07-23,316.18
+1014,Anita Das,4567890123456789,Mastercard,Bank of Maharashtra,2024-07-23,377.79
+1015,Alok Yadav,5678901234567890,American Express,Allahabad Bank,2024-07-23,124.52
+1016,Meera Singh,6789012345678901,Discover,Andhra Bank,2024-07-23,67.67
+1017,Arjun Gupta,7890123456789012,Visa,Canara Bank,2024-07-23,372.86
+1018,Anushka Sharma,8901234567890123,Mastercard,Axis Bank,2024-07-23,96.52
+1019,Aryan Khan,9012345678901234,American Express,Yes Bank,2024-07-23,224.62
+1020,Deepika Patel,0123456789012345,Discover,HDFC Bank,2024-07-23,323.25
+1001,Ravi Kumar,1234567890123456,Visa,State Bank of India,2024-07-23,345.21
+1002,Anjali Gupta,2345678901234567,Mastercard,HDFC Bank,2024-07-23,308.36
+1003,Rahul Singh,3456789012345678,American Express,ICICI Bank,2024-07-23,391.52
+1004,Priya Sharma,4567890123456789,Discover,Axis Bank,2024-07-23,144.44
+1005,Suresh Patel,5678901234567890,Visa,Kotak Mahindra Bank,2024-07-23,68.97
+1006,Divya Joshi,6789012345678901,Mastercard,IndusInd Bank,2024-07-23,377.85
+1007,Amit Mishra,7890123456789012,American Express,Yes Bank,2024-07-23,112.22
+1008,Meena Reddy,8901234567890123,Discover,Punjab National Bank,2024-07-23,480.2
+1009,Rajesh Gupta,9012345678901234,Visa,Bank of Baroda,2024-07-23,260.1
+1010,Neeta Kapoor,0123456789012345,Mastercard,Canara Bank,2024-07-23,116.07
+1011,Prakash Singh,1234567890123456,American Express,Union Bank of India,2024-07-23,486.61
+1012,Sunita Shah,2345678901234567,Discover,Bank of India,2024-07-23,144.73
+1013,Sanjay Verma,3456789012345678,Visa,Indian Bank,2024-07-23,154.57
+1014,Anita Das,4567890123456789,Mastercard,Bank of Maharashtra,2024-07-23,260.06
+1015,Alok Yadav,5678901234567890,American Express,Allahabad Bank,2024-07-23,76.45
+1016,Meera Singh,6789012345678901,Discover,Andhra Bank,2024-07-23,379.6
+1017,Arjun Gupta,7890123456789012,Visa,Canara Bank,2024-07-23,56.76
+1018,Anushka Sharma,8901234567890123,Mastercard,Axis Bank,2024-07-23,336.29
+1019,Aryan Khan,9012345678901234,American Express,Yes Bank,2024-07-23,306.09
+1020,Deepika Patel,0123456789012345,Discover,HDFC Bank,2024-07-23,288.07
+1001,Ravi Kumar,1234567890123456,Visa,State Bank of India,2024-07-23,88.19
+1002,Anjali Gupta,2345678901234567,Mastercard,HDFC Bank,2024-07-23,248.21
+1003,Rahul Singh,3456789012345678,American Express,ICICI Bank,2024-07-23,488.11
+1004,Priya Sharma,4567890123456789,Discover,Axis Bank,2024-07-23,93.06
+1005,Suresh Patel,5678901234567890,Visa,Kotak Mahindra Bank,2024-07-23,113.83
+1006,Divya Joshi,6789012345678901,Mastercard,IndusInd Bank,2024-07-23,306.34
+1007,Amit Mishra,7890123456789012,American Express,Yes Bank,2024-07-23,415.49
+1008,Meena Reddy,8901234567890123,Discover,Punjab National Bank,2024-07-23,291.59
+1009,Rajesh Gupta,9012345678901234,Visa,Bank of Baroda,2024-07-23,208.51
+1010,Neeta Kapoor,0123456789012345,Mastercard,Canara Bank,2024-07-23,444.52
+1011,Prakash Singh,1234567890123456,American Express,Union Bank of India,2024-07-23,169.32
+1012,Sunita Shah,2345678901234567,Discover,Bank of India,2024-07-23,466.31
+1013,Sanjay Verma,3456789012345678,Visa,Indian Bank,2024-07-23,463.16
+1014,Anita Das,4567890123456789,Mastercard,Bank of Maharashtra,2024-07-23,351.28
+1015,Alok Yadav,5678901234567890,American Express,Allahabad Bank,2024-07-23,40.56
+1016,Meera Singh,6789012345678901,Discover,Andhra Bank,2024-07-23,15.16
+1017,Arjun Gupta,7890123456789012,Visa,Canara Bank,2024-07-23,32.59
+1018,Anushka Sharma,8901234567890123,Mastercard,Axis Bank,2024-07-23,252.75
+1019,Aryan Khan,9012345678901234,American Express,Yes Bank,2024-07-23,319.65
+1020,Deepika Patel,0123456789012345,Discover,HDFC Bank,2024-07-23,307.59
+1001,Ravi Kumar,1234567890123456,Visa,State Bank of India,2024-07-23,388.24
+1002,Anjali Gupta,2345678901234567,Mastercard,HDFC Bank,2024-07-23,268.27
+1003,Rahul Singh,3456789012345678,American Express,ICICI Bank,2024-07-23,422.43
+1004,Priya Sharma,4567890123456789,Discover,Axis Bank,2024-07-23,290.83
+1005,Suresh Patel,5678901234567890,Visa,Kotak Mahindra Bank,2024-07-23,226.59
+1006,Divya Joshi,6789012345678901,Mastercard,IndusInd Bank,2024-07-23,297.12
+1007,Amit Mishra,7890123456789012,American Express,Yes Bank,2024-07-23,116.58
+1008,Meena Reddy,8901234567890123,Discover,Punjab National Bank,2024-07-23,190.89
+1009,Rajesh Gupta,9012345678901234,Visa,Bank of Baroda,2024-07-23,287.01
+1010,Neeta Kapoor,0123456789012345,Mastercard,Canara Bank,2024-07-23,24.61
+1011,Prakash Singh,1234567890123456,American Express,Union Bank of India,2024-07-23,81.61
+1012,Sunita Shah,2345678901234567,Discover,Bank of India,2024-07-23,195.78
+1013,Sanjay Verma,3456789012345678,Visa,Indian Bank,2024-07-23,430.5
+1014,Anita Das,4567890123456789,Mastercard,Bank of Maharashtra,2024-07-23,425.4
+1015,Alok Yadav,5678901234567890,American Express,Allahabad Bank,2024-07-23,224.51
+1016,Meera Singh,6789012345678901,Discover,Andhra Bank,2024-07-23,111.68
+1017,Arjun Gupta,7890123456789012,Visa,Canara Bank,2024-07-23,196.82
+1018,Anushka Sharma,8901234567890123,Mastercard,Axis Bank,2024-07-23,353.45
+1019,Aryan Khan,9012345678901234,American Express,Yes Bank,2024-07-23,152.16
+1020,Deepika Patel,0123456789012345,Discover,HDFC Bank,2024-07-23,76.7
+1001,Ravi Kumar,1234567890123456,Visa,State Bank of India,2024-07-23,416.12
+1002,Anjali Gupta,2345678901234567,Mastercard,HDFC Bank,2024-07-23,241.49
+1003,Rahul Singh,3456789012345678,American Express,ICICI Bank,2024-07-23,135.86
+1004,Priya Sharma,4567890123456789,Discover,Axis Bank,2024-07-23,345.43
+1005,Suresh Patel,5678901234567890,Visa,Kotak Mahindra Bank,2024-07-23,428.96
+1006,Divya Joshi,6789012345678901,Mastercard,IndusInd Bank,2024-07-23,406.67
+1007,Amit Mishra,7890123456789012,American Express,Yes Bank,2024-07-23,414.27
+1008,Meena Reddy,8901234567890123,Discover,Punjab National Bank,2024-07-23,441.22
+1009,Rajesh Gupta,9012345678901234,Visa,Bank of Baroda,2024-07-23,370.14
+1010,Neeta Kapoor,0123456789012345,Mastercard,Canara Bank,2024-07-23,278.39
+1011,Prakash Singh,1234567890123456,American Express,Union Bank of India,2024-07-23,39.03
+1012,Sunita Shah,2345678901234567,Discover,Bank of India,2024-07-23,29.77
+1013,Sanjay Verma,3456789012345678,Visa,Indian Bank,2024-07-23,148.46
+1014,Anita Das,4567890123456789,Mastercard,Bank of Maharashtra,2024-07-23,33.1
+1015,Alok Yadav,5678901234567890,American Express,Allahabad Bank,2024-07-23,408.56
+1016,Meera Singh,6789012345678901,Discover,Andhra Bank,2024-07-23,198.39
+1017,Arjun Gupta,7890123456789012,Visa,Canara Bank,2024-07-23,148.09
+1018,Anushka Sharma,8901234567890123,Mastercard,Axis Bank,2024-07-23,259.23
+1019,Aryan Khan,9012345678901234,American Express,Yes Bank,2024-07-23,10.16
+1020,Deepika Patel,0123456789012345,Discover,HDFC Bank,2024-07-23,13.88
+1001,Ravi Kumar,1234567890123456,Visa,State Bank of India,2024-07-23,11.59
+1002,Anjali Gupta,2345678901234567,Mastercard,HDFC Bank,2024-07-23,289.42
+1003,Rahul Singh,3456789012345678,American Express,ICICI Bank,2024-07-23,471.56
+1004,Priya Sharma,4567890123456789,Discover,Axis Bank,2024-07-23,19.25
+1005,Suresh Patel,5678901234567890,Visa,Kotak Mahindra Bank,2024-07-23,390.54
+1006,Divya Joshi,6789012345678901,Mastercard,IndusInd Bank,2024-07-23,341.42
+1007,Amit Mishra,7890123456789012,American Express,Yes Bank,2024-07-23,293.11
+1008,Meena Reddy,8901234567890123,Discover,Punjab National Bank,2024-07-23,10.87
+1009,Rajesh Gupta,9012345678901234,Visa,Bank of Baroda,2024-07-23,269.58
+1010,Neeta Kapoor,0123456789012345,Mastercard,Canara Bank,2024-07-23,257.55
+1011,Prakash Singh,1234567890123456,American Express,Union Bank of India,2024-07-23,161.06
+1012,Sunita Shah,2345678901234567,Discover,Bank of India,2024-07-23,240.05
+1013,Sanjay Verma,3456789012345678,Visa,Indian Bank,2024-07-23,245.47
+1014,Anita Das,4567890123456789,Mastercard,Bank of Maharashtra,2024-07-23,55.41
+1015,Alok Yadav,5678901234567890,American Express,Allahabad Bank,2024-07-23,480.87
+1016,Meera Singh,6789012345678901,Discover,Andhra Bank,2024-07-23,408.09
+1017,Arjun Gupta,7890123456789012,Visa,Canara Bank,2024-07-23,219.25
+1018,Anushka Sharma,8901234567890123,Mastercard,Axis Bank,2024-07-23,167.84
+1019,Aryan Khan,9012345678901234,American Express,Yes Bank,2024-07-23,157.74
+1020,Deepika Patel,0123456789012345,Discover,HDFC Bank,2024-07-23,196.03
+1001,Ravi Kumar,1234567890123456,Visa,State Bank of India,2024-07-23,278.96
+1002,Anjali Gupta,2345678901234567,Mastercard,HDFC Bank,2024-07-23,295.46
+1003,Rahul Singh,3456789012345678,American Express,ICICI Bank,2024-07-23,143.52
+1004,Priya Sharma,4567890123456789,Discover,Axis Bank,2024-07-23,95.03
+1005,Suresh Patel,5678901234567890,Visa,Kotak Mahindra Bank,2024-07-23,438.64
+1006,Divya Joshi,6789012345678901,Mastercard,IndusInd Bank,2024-07-23,259.01
+1007,Amit Mishra,7890123456789012,American Express,Yes Bank,2024-07-23,356.16
+1008,Meena Reddy,8901234567890123,Discover,Punjab National Bank,2024-07-23,202.75
+1009,Rajesh Gupta,9012345678901234,Visa,Bank of Baroda,2024-07-23,466.1
+1010,Neeta Kapoor,0123456789012345,Mastercard,Canara Bank,2024-07-23,349.52
+1011,Prakash Singh,1234567890123456,American Express,Union Bank of India,2024-07-23,209.28
+1012,Sunita Shah,2345678901234567,Discover,Bank of India,2024-07-23,164.06
+1013,Sanjay Verma,3456789012345678,Visa,Indian Bank,2024-07-23,492.92
+1014,Anita Das,4567890123456789,Mastercard,Bank of Maharashtra,2024-07-23,442.74
+1015,Alok Yadav,5678901234567890,American Express,Allahabad Bank,2024-07-23,219.27
+1016,Meera Singh,6789012345678901,Discover,Andhra Bank,2024-07-23,282.46
+1017,Arjun Gupta,7890123456789012,Visa,Canara Bank,2024-07-23,348.39
+1018,Anushka Sharma,8901234567890123,Mastercard,Axis Bank,2024-07-23,483.23
+1019,Aryan Khan,9012345678901234,American Express,Yes Bank,2024-07-23,427.87
+1020,Deepika Patel,0123456789012345,Discover,HDFC Bank,2024-07-23,91.14
+1001,Ravi Kumar,1234567890123456,Visa,State Bank of India,2024-07-23,438.5
+1002,Anjali Gupta,2345678901234567,Mastercard,HDFC Bank,2024-07-23,426.03
+1003,Rahul Singh,3456789012345678,American Express,ICICI Bank,2024-07-23,359.05
+1004,Priya Sharma,4567890123456789,Discover,Axis Bank,2024-07-23,190.96
+1005,Suresh Patel,5678901234567890,Visa,Kotak Mahindra Bank,2024-07-23,227.91
+1006,Divya Joshi,6789012345678901,Mastercard,IndusInd Bank,2024-07-23,235.57
+1007,Amit Mishra,7890123456789012,American Express,Yes Bank,2024-07-23,222.79
+1008,Meena Reddy,8901234567890123,Discover,Punjab National Bank,2024-07-23,343.03
+1009,Rajesh Gupta,9012345678901234,Visa,Bank of Baroda,2024-07-23,36.3
+1010,Neeta Kapoor,0123456789012345,Mastercard,Canara Bank,2024-07-23,211.25
+1011,Prakash Singh,1234567890123456,American Express,Union Bank of India,2024-07-23,358.79
+1012,Sunita Shah,2345678901234567,Discover,Bank of India,2024-07-23,303.85
+1013,Sanjay Verma,3456789012345678,Visa,Indian Bank,2024-07-23,343.53
+1014,Anita Das,4567890123456789,Mastercard,Bank of Maharashtra,2024-07-23,137.68
+1015,Alok Yadav,5678901234567890,American Express,Allahabad Bank,2024-07-23,26.21
+1016,Meera Singh,6789012345678901,Discover,Andhra Bank,2024-07-23,151.56
+1017,Arjun Gupta,7890123456789012,Visa,Canara Bank,2024-07-23,453.53
+1018,Anushka Sharma,8901234567890123,Mastercard,Axis Bank,2024-07-23,44.86
+1019,Aryan Khan,9012345678901234,American Express,Yes Bank,2024-07-23,121.3
+1020,Deepika Patel,0123456789012345,Discover,HDFC Bank,2024-07-23,269.72
+1001,Ravi Kumar,1234567890123456,Visa,State Bank of India,2024-07-23,97.86
+1002,Anjali Gupta,2345678901234567,Mastercard,HDFC Bank,2024-07-23,16.15
+1003,Rahul Singh,3456789012345678,American Express,ICICI Bank,2024-07-23,115.08
+1004,Priya Sharma,4567890123456789,Discover,Axis Bank,2024-07-23,325.71
+1005,Suresh Patel,5678901234567890,Visa,Kotak Mahindra Bank,2024-07-23,449.16
+1006,Divya Joshi,6789012345678901,Mastercard,IndusInd Bank,2024-07-23,445.39
+1007,Amit Mishra,7890123456789012,American Express,Yes Bank,2024-07-23,390.16
+1008,Meena Reddy,8901234567890123,Discover,Punjab National Bank,2024-07-23,272.25
+1009,Rajesh Gupta,9012345678901234,Visa,Bank of Baroda,2024-07-23,280.71
+1010,Neeta Kapoor,0123456789012345,Mastercard,Canara Bank,2024-07-23,246.31
+1011,Prakash Singh,1234567890123456,American Express,Union Bank of India,2024-07-23,293.93
+1012,Sunita Shah,2345678901234567,Discover,Bank of India,2024-07-23,263.01
+1013,Sanjay Verma,3456789012345678,Visa,Indian Bank,2024-07-23,87.16
+1014,Anita Das,4567890123456789,Mastercard,Bank of Maharashtra,2024-07-23,207.56
+1015,Alok Yadav,5678901234567890,American Express,Allahabad Bank,2024-07-23,63.49
+1016,Meera Singh,6789012345678901,Discover,Andhra Bank,2024-07-23,374.97
+1017,Arjun Gupta,7890123456789012,Visa,Canara Bank,2024-07-23,274.86
+1018,Anushka Sharma,8901234567890123,Mastercard,Axis Bank,2024-07-23,252.18
+1019,Aryan Khan,9012345678901234,American Express,Yes Bank,2024-07-23,86.86
+1020,Deepika Patel,0123456789012345,Discover,HDFC Bank,2024-07-23,195.8
+1001,Ravi Kumar,1234567890123456,Visa,State Bank of India,2024-07-23,110.56
+1002,Anjali Gupta,2345678901234567,Mastercard,HDFC Bank,2024-07-23,52.2
+1003,Rahul Singh,3456789012345678,American Express,ICICI Bank,2024-07-23,112.44
+1004,Priya Sharma,4567890123456789,Discover,Axis Bank,2024-07-23,183.43
+1005,Suresh Patel,5678901234567890,Visa,Kotak Mahindra Bank,2024-07-23,11.13
+1006,Divya Joshi,6789012345678901,Mastercard,IndusInd Bank,2024-07-23,337.31
+1007,Amit Mishra,7890123456789012,American Express,Yes Bank,2024-07-23,401.54
+1008,Meena Reddy,8901234567890123,Discover,Punjab National Bank,2024-07-23,316.04
+1009,Rajesh Gupta,9012345678901234,Visa,Bank of Baroda,2024-07-23,373.53
+1010,Neeta Kapoor,0123456789012345,Mastercard,Canara Bank,2024-07-23,434.04
+1011,Prakash Singh,1234567890123456,American Express,Union Bank of India,2024-07-23,498.26
+1012,Sunita Shah,2345678901234567,Discover,Bank of India,2024-07-23,129.62
+1013,Sanjay Verma,3456789012345678,Visa,Indian Bank,2024-07-23,498.52
+1014,Anita Das,4567890123456789,Mastercard,Bank of Maharashtra,2024-07-23,478.85
+1015,Alok Yadav,5678901234567890,American Express,Allahabad Bank,2024-07-23,145.95
+1016,Meera Singh,6789012345678901,Discover,Andhra Bank,2024-07-23,234.47
+1017,Arjun Gupta,7890123456789012,Visa,Canara Bank,2024-07-23,422.75
+1018,Anushka Sharma,8901234567890123,Mastercard,Axis Bank,2024-07-23,471.2
+1019,Aryan Khan,9012345678901234,American Express,Yes Bank,2024-07-23,431.91
+1020,Deepika Patel,0123456789012345,Discover,HDFC Bank,2024-07-23,91.73
